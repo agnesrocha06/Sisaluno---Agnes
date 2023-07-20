@@ -1,5 +1,3 @@
-DROP DATABASE sisaluno;
-
 CREATE DATABASE sisaluno;
 
 USE sisaluno;
