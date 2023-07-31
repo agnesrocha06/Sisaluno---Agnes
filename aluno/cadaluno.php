@@ -19,7 +19,7 @@
      <label for="id">Matricula</label>
      <input id="input-id" type="text" name="id" required> <br>
      <label for="nomealuno">Nome</label>
-     <input id="input-nome" type="text" name="nomealuno" placeholder=" Digite o nome do aluno"  required><br>
+     <input id="input-nome" type="number" name="nomealuno" placeholder=" Digite o nome do aluno"  required><br>
     </div>
 
     <div class="linha">
